@@ -17,11 +17,12 @@ Results of multiple experiments we conducted, showed that the CCR procedure via 
 This repository contains the CCR ratings collected in those crowdsourcing tests.
 
 ## Citation
-If you use this dataset in your research please cite it with the following reference:
+If you use this dataset in your research please cite it with the following reference.
+The preprint is available here: [arXiv:2104.04371](https://arxiv.org/pdf/2104.04371.pdf) 
 
 ```BibTex
 @inproceedings{naderi2021ccr,
-  title={TSpeech Quality Assessment in Crowdsourcing: Comparison Category Rating Metho},
+  title={Speech Quality Assessment in Crowdsourcing: Comparison Category Rating Method},
   author={Naderi, Babak and M{\"o}ller, Sebastian and Cutler, Ross},
   booktitle={2021 Thirteen International Conference on Quality of Multimedia Experience (QoMEX)},
   pages={1--6},
@@ -52,6 +53,7 @@ Ratings are provided per file and per condition.
 | run 2 | 40 | 61 |81 / 43 | 71 / 37| 2832 |
 | run 3 | 40 | 46 |78 / 40|  70 / 35| 2688 |
 
+
 ### CSV Format
 
  * `runX_accepted_votes_long.csv`: Long format of accepted ratings in `run X`.
@@ -72,7 +74,7 @@ Here are the list of conditions used in the ITU Sup23 Experiment 2. Please refer
 _source: ITU-T Sup23 Experiment 2 - Result , Table 3.2._ 
    
     
-  
+[1]. Naderi B., Möller S., Cutler R. (2021). _Speech Quality Assessment in Crowdsourcing: Comparison Category Rating Method_. In 2021 Thirteen International Conference on Quality of Multimedia Experience (QoMEX) (pp. 1-6). Preprint:[arXiv:2104.04371](https://arxiv.org/pdf/2104.04371.pdf)
   
 ## Copyright Notice:
 
